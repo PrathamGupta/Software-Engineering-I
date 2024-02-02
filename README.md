@@ -9,7 +9,6 @@ Project made for the course CSGY 6063: Software Engineering
 - Vibhor Mechu
 - Karmanya Mendiratta
 - Swati Baleri 
-- Adittya Mittal 
 
 -----------------------------------------------------------------
 
@@ -23,3 +22,7 @@ Project made for the course CSGY 6063: Software Engineering
 - [x] Setup software environments
 - [x] Share Team Ideas Document
 
+### Assignment 2
+
+- [] Make project proposal
+- [] Daily Scrum meetings
