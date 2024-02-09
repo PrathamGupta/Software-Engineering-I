@@ -24,5 +24,11 @@ Project made for the course CSGY 6063: Software Engineering
 
 ### Assignment 2
 
-- [ ] Make project proposal
-- [ ] Daily Scrum meetings
+- [x] Make project proposal
+- [x] Daily Scrum meetings
+
+### Assignment 3
+
+- [ ] Make Project Team Requirements
+- [ ] Make user stories
+- [ ] Daily Scrums
