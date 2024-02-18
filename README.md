@@ -29,6 +29,13 @@ Project made for the course CSGY 6063: Software Engineering
 
 ### Assignment 3
 
-- [ ] Make Project Team Requirements
-- [ ] Make user stories
+- [x] Make Project Team Requirements
+- [x] Make user stories
+- [x] Daily Scrums
+
+### Assignment 4
+- [ ] Make Design documents inlcuding UML
+- [ ] Design Disucssions
 - [ ] Daily Scrums
+
+      
