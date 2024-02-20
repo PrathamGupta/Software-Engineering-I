@@ -2,7 +2,7 @@
 
 The link for User stories can be found here: 
 
-[https://docs.google.com/document/d/1Aj-VdTYBxyYXyYvB0d2ZS8UY-DY4B5NqAJ70MY2PRYY/edit?usp=sharing](Link)
+[Link](https://docs.google.com/document/d/1Aj-VdTYBxyYXyYvB0d2ZS8UY-DY4B5NqAJ70MY2PRYY/edit?usp=sharing)
 
 1. Profile Creation
 
