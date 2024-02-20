@@ -1,6 +1,8 @@
-**CSGY 6063: Software Engineering**
+# User Story 
 
-**User Stories**
+The link for User Stories can be found here:
+
+[Link](https://docs.google.com/document/d/1Aj-VdTYBxyYXyYvB0d2ZS8UY-DY4B5NqAJ70MY2PRYY/edit?usp=sharing)
 
 **User Story \#1**
 
