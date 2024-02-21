@@ -34,8 +34,8 @@ Project made for the course CSGY 6063: Software Engineering
 - [x] Daily Scrums
 
 ### Assignment 4
-- [ ] Make Design documents inlcuding UML
-- [ ] Design Discussions
-- [ ] Daily Scrums
+- [x] Make Design documents inlcuding UML
+- [x] Design Discussions
+- [x] Daily Scrums
 
       
