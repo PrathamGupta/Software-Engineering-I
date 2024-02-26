@@ -39,8 +39,8 @@ Project made for the course CSGY 6063: Software Engineering
 - [x] Daily Scrums
 
 ### Assignment 5
-- [] Deploy Sprint 04 solution to be available for Sprint Demo review in localhost or AWS
-- [] Sprint Retrospective team discussion
-- [] Daily Scrums
+- [ ] Deploy Sprint 04 solution to be available for Sprint Demo review in localhost or AWS
+- [ ] Sprint Retrospective team discussion
+- [ ] Daily Scrums
 
       
